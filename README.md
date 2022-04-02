@@ -1,13 +1,16 @@
+<p align="center"
+   ![image](https://user-images.githubusercontent.com/98301106/161388819-43b6b6ba-ba20-458d-9736-6d8a6132f98f.png)
+</p>
+
 <p align="center">
+  <img align="center" width="200" src="5iuora.png"/>
   <h1 align="center">BananaBoii600</h1>
   <h3 align="center">A Professional app maker (maybe)</h3>
 </p>
 
-
-I make apps using `python` and plan on learning `c++` and `javascript` in the future
-
-![trophy](https://github-profile-trophy.vercel.app/?username=BananaBoii600&theme=onedark)
-
+<p align="center">
+  <img align="center" width="750" src="Screenshot from 2022-04-02 20-28-21.png"
+</p>
 <p align="center">
     <h2 align="center">Here are my stats</h3>
 </p>
