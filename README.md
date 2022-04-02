@@ -18,7 +18,16 @@
 
 ![BananaBoii600's GitHub stats](https://github-readme-stats.vercel.app/api?username=BananaBoii600)
 
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BananaBoii600&langs_count=8&layout=compact" />
+</a>
+
+
 <h2 align="center">Languages and Tools</h2>
+<a href="https://github.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width=40 height=40 />
+<a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <a target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
