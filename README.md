@@ -5,7 +5,7 @@
 <p align="center">
   <img align="center" width="200" src="5iuora.png"/>
   <h1 align="center">BananaBoii600</h1>
-  <h3 align="center">Hi! I am BananaBoii, I luv python
+  <h3 align="center">Im learning javascript baby!
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BananaBoii600)](https://github.com/BananaBoii600/github-profile-trophy)
