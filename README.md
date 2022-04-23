@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img align="center" width="200" src="ob1s4aljv4o21.png"/>
+  <img align="center" width="200" src="ob1s4aljv4o21.jpg"/>
   <h1 align="center">BananaBoii600</h1>
   <h3 align="center">I AM MADE A CODE EDITOR!</h3>
 </p>
