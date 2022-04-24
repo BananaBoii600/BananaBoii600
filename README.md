@@ -13,8 +13,6 @@
     <h2 align="center">Here are my stats</h3>
 </p>
 
-![](https://komarev.com/ghpvc/?username=BananaBoii600)
-
 ![BananaBoii600's GitHub stats](https://github-readme-stats.vercel.app/api?username=BananaBoii600)
 
 
