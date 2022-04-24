@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bananaboii600" alt="bananaboii600" /></a> </p>
 
-- Currently working on [Serial-Port](https://www.github.com/BananaBoii600/Serial-Port)
+- **Currently working on [Serial-Port](https://www.github.com/BananaBoii600/Serial-Port)**
 
-- Currently learning **C#**
+- **Currently learning **C#****
 
-- My good friend [Chibong3020](https://www.github.com/Chibong3020)
+- **My good friend [Chibong3020](https://www.github.com/Chibong3020)**
 
-- My projects are available here [https://www.github.com/BananaBoii600?tab=repositories](https://www.github.com/BananaBoii600?tab=repositories)
+- **My projects are available [here](https://www.github.com/BananaBoii600?tab=repositories)**
 
-- reach me in discord **https://discord.gg/8KuDFGxaMq**
+- **reach me in [discord](https://discord.gg/8KuDFGxaMq)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
