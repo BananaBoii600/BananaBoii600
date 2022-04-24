@@ -1,66 +1,28 @@
-<p align="center"
-   ![image](https://user-images.githubusercontent.com/98301106/161388819-43b6b6ba-ba20-458d-9736-6d8a6132f98f.png)
-</p>
+<h1 align="center">Hi I'm BananaBoii</h1>
+<h3 align="center">A Passionate developer who makes apps</h3>
 
-<p align="center">
-  <h1 align="center">BananaBoii600</h1>
-  <h3 align="center">I AM MADE A CODE EDITOR!</h3>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bananaboii600&label=Profile%20views&color=0e75b6&style=flat" alt="bananaboii600" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BananaBoii600)](https://github.com/BananaBoii600/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bananaboii600" alt="bananaboii600" /></a> </p>
 
-<p align="center">
-    <h2 align="center">Here are my stats</h3>
-</p>
+- Currently working on [Serial-Port](https://www.github.com/BananaBoii600/Serial-Port)
 
-![BananaBoii600's GitHub stats](https://github-readme-stats.vercel.app/api?username=BananaBoii600)
+- Currently learning **C#**
 
+- My good friend [Chibong3020](https://www.github.com/Chibong3020)
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BananaBoii600&langs_count=8&layout=compact" />
-</a>
+- My projects are available here [https://www.github.com/BananaBoii600?tab=repositories](https://www.github.com/BananaBoii600?tab=repositories)
 
+- reach me in discord **https://discord.gg/8KuDFGxaMq**
 
-<h2 align="center">Languages and Tools</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-</a> 
+<a href="https://discord.gg/https://discord.gg/8KuDFGxaMq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8KuDFGxaMq" height="30" width="40" /></a>
+</p>
 
-<a href="https://www.google.com" target="_blank">
-   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
-</a
-   
-<a href="https://www.google.com" target="_blank">
-   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-</a
-   
-<a href="https://www.google.com" target="_blank">
-   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
-</a
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://www.linux.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  
-<a href="https://www.gnu.org/software/bash/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width=40 height=40 />
-  </a>
-    
-<a href="https://github.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width=40 height=40 />
-  <a>
-     
- <a href="https://code.visualstudio.com/">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width=40 height=40 />
-  <a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bananaboii600&show_icons=true&locale=en" alt="bananaboii600" /></p>
 
-
-<h2 align="center">I also use</h2>
-<a href="https://account.xbox.com/en-in/Profile?xr=mebarnav&rtc=1" target="_blank"> <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
-<a href="https://discord.gg/8KuDFGxaMq" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-<a target="_blank"> <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
-<a href="https://steamcommunity.com/profiles/76561199106399127/" target="_blank"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bananaboii600&" alt="bananaboii600" /></p>
