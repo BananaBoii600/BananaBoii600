@@ -24,6 +24,19 @@
 <h2 align="center">Languages and Tools</h2>
 <p align="left">
 </a> 
+
+<a href="https://www.google.com" target="_blank">
+   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
+</a
+   
+<a href="https://www.google.com" target="_blank">
+   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+</a
+   
+<a href="https://www.google.com" target="_blank">
+   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
+</a
+
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
