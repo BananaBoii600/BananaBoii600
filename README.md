@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bananaboii600&show_icons=true&locale=en" alt="bananaboii600" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bananaboii600&" alt="bananaboii600" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BananaBoii600)](https://github.com/BananaBoii600/github-readme-stats)
