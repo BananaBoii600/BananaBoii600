@@ -7,7 +7,7 @@
 
 - **Currently working on this project [Serial-Port](https://www.github.com/BananaBoii600/Serial-Port)**
 
-- **Currently learning **C#****
+- **Currently learning **C++****
 
 - **My good friend [Chibong3020](https://www.github.com/Chibong3020)**
 
