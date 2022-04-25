@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bananaboii600" alt="bananaboii600" /></a> </p>
 
-- **Currently working on this project [Serial-Port](https://www.github.com/BananaBoii600/Serial-Port)**
+- **Currently working on this project [Console-Game-Engine](https://www.github.com/BananaBoii600/Console-Game-Engine)**
 
 - **Currently learning **C++****
 
