@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
 
@@ -81,6 +81,7 @@
 
 ## Connect with me  
 <div align="center">
+ <img src="https://dcbadge.vercel.app/api/shield/929977422345031692" />
 <a href="https://www.youtube.com/channel/UCAlvdlEODikw-nv1k9ElehA" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
