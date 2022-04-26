@@ -15,7 +15,7 @@
 - 😀 My good friend and collaborator [Chibong3020](https://www.github.com/Chibong3020)  
   
 
-- ⚡ Fun fact: I started programming when i was 12!  
+- ⚡ Fun fact: I started programming when i was 10!  
   
 
 <br/>  
