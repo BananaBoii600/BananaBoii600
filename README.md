@@ -112,5 +112,5 @@
 
 <br/>  
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3153fedccdsgdtx7sykuep3ir6ia&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <br />
