@@ -6,9 +6,6 @@
 ### <div align="center">Hi, I am BananaBoii600, I am a passionate backend and frontend developer</div>  
   
 
-- 🔭 I’m currently working on [Console-Game-Engine](https://github.com/BananaBoii600/Console-Game-Engine)  
-  
-
 - 😄 My [website](https://bananaboii.carrd.co/)
 
 
